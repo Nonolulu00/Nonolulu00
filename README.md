@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Noémie - aka Nonolulu00 🏝
 
-<!--
-**Nonolulu00/Nonolulu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently a Software Developer Student in retraining, looking for an apprenticeship
 
-Here are some ideas to get you started:
+I'm a motivated and I'm a teamplayer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 My wishes for 2022: 
+    Continue making progress and meet new people. 
+    To keep learning in a company that fits my values
+
+
+
+Connect with me and learn more about me and my previous career:
+
+
+ LinkedIn codeSTACKr | Instagram
+
+Languages and Tools:
+
+Visual Studio Code HTML5 CSS3 JavaScript React Laravel Swift Go SQL MySQL Git GitHub Terminal Laravel Postman
+
+I 💛 :
+    🌊 stand-up paddle
+    👩🏻‍🍳 cooking AND even more... eating 🍝 
+    🧩 jigsaw puzzles
+
+I 💔:
+    🐦 birds standing to close to me
+    🤯 little noises that repeat themselves
+    🤬 rude and selfish people
