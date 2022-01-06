@@ -11,10 +11,12 @@ I'm a **motivated** and **energetic** teamplayer
 
 
 Connect with me and learn more about me:
-[<img src="https://github.com/Nonolulu00/Nonolulu00/blob/main/img/iconmonstr-linkedin-3-72.png"/>](https://www.linkedin.com/in/noemieragot)
+[![linkedin](<img width= "30px"src="https://github.com/Nonolulu00/Nonolulu00/blob/main/img/iconmonstr-linkedin-3-72.png"/>)](https://www.linkedin.com/in/noemieragot)
+<!-- [<img src="https://github.com/Nonolulu00/Nonolulu00/blob/main/img/iconmonstr-linkedin-3-72.png"/>](https://www.linkedin.com/in/noemieragot) -->
 
 
-Languages and Tools:<br/>
+Languages and Tools:
+<br/>
 <img alt="html" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
