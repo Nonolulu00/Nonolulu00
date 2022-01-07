@@ -25,13 +25,15 @@ Languages and Tools:<br/>
 <img alt="visual code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img alt="mySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
+<br/>
+And beside coding ???<br/>
 I 💛 :<br/>
-   🌊 stand-up paddle<br/>
+   🌊 listening to music on my stand-up paddle<br/>
    👩🏻‍🍳 cooking AND even more... eating 🍝 <br/>
+   🎥 zombies & apocalyptic movies <br/>
    🧩 jigsaw puzzles<br/>
 
 I 💔:<br/>
    🐦 birds standing to close to me<br/>
    🤯 little noises that repeat themselves<br/>
-🤬 rude and selfish people<br/>
+   🤬 rude and selfish people<br/>
