@@ -1,13 +1,13 @@
 ### Hi there, I'm Noémie - # aka Nonolulu00 🏝
 
-### I'm currently a Software Developer Student in retraining, looking for an apprenticeship
+### I'm currently a Software Developer Student in apprenticeship
 
 I'm a **motivated** and **energetic** teamplayer  
 
 💫 My wishes for 2022: <br/>
-   * Keep learning and making progress <br/>
-   * Meet new (funny & kind) people<br/>
-   * Join a company that fits my values<br/>
+   * Keep learning and making progress <br/> ✅
+   * Meet new (funny & kind) people<br/> ✅
+   * Join a company that fits my values<br/> ✅
 
 
 Connect with me and learn more about me:<br/>
