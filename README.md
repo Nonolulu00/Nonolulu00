@@ -1,11 +1,11 @@
 ### Hi there, I'm Noémie - # aka Nonolulu00 🏝
 
-### I'm currently a Software Developer Student in apprenticeship
+### I'm currently a Front End Software Developer in apprenticeship
 
 I'm a **motivated** and **energetic** teamplayer  
 
-💫 My wishes for 2022: <br/>
-   * Keep learning and making progress <br/> ✅
+💫 My wishes for 2023: <br/>
+   * Keep learning <br/> ✅
    * Meet new (funny & kind) people<br/> ✅
    * Join a company that fits my values<br/> ✅
 
@@ -23,7 +23,6 @@ Languages and Tools:<br/>
 <img alt="typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img alt="nodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img alt="php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img alt="laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img alt="docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img alt="visual code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
