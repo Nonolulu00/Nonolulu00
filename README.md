@@ -1,10 +1,10 @@
 ### Hi there, I'm Noémie - # aka Nonolulu00 🏝
 
-### I'm currently a Front End Software Developer in apprenticeship
+### I'm currently a Junior Front End Developer 
 
 I'm a **motivated** and **energetic** teamplayer  
 
-💫 My wishes for 2023: <br/>
+💫 My wishes for 2024: <br/>
    * Keep learning <br/> ✅
    * Meet new (funny & kind) people<br/> ✅
    * Join a company that fits my values<br/> ✅
